@@ -7,7 +7,7 @@
 | 2 | 09 / 19 (四)| 踏出第一步：認識 Github 與學習資源介紹 |
 | 3 | 09 / 26 (四)| 新一代的 Word: markdown |
 | 4 | 10 / 02 (三)| 更方便的線上 Excel: Google試算表 |
-| 5 | 10 / 16 (三)| 自動翻譯英文函授：Google翻譯 |
+| 5 | 10 / 16 (三)| 使用套件來自動化翻譯英文函授 |
 | 6 | 11 / 06 (三)| 工程師的 Excel：Flask-SQLAlchemy 與 Flask-Admin |
 | 7 | 11 / 13 (三)| 人工智慧與資料科學的強力工具：jupyter notebook |
 | 8 | 11 / 20 (三)| 網頁資料爬蟲：Requests 與 PyQuery |
