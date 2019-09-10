@@ -24,7 +24,7 @@
 
 1. 用程式來自動更新 Google 試算表：Gspread
 2. 自動化翻譯英文函授：Googletrans
-3. 人工智慧與資料科學的強力工具：jupyter notebook
+3. 人工智慧與資料科學的強力工具：Jupyter Notebook
 4. 工程師的 Excel：Flask-SQLAlchemy
 5. 快速的來點視覺介面：Flask-Admin
 6. 其他
