@@ -20,7 +20,7 @@
 
 最後兩堂課程許願池
 
-請告訴社長巧克力你想要以下哪些簡單快速又實用的程式課程吧
+請投票告訴社長巧克力你想要以下哪些簡單快速又實用的程式課程吧
 
 1. 用程式來自動更新 Google 試算表：Gspread
 2. 自動化翻譯英文函授：Googletrans
@@ -28,3 +28,5 @@
 4. 工程師的 Excel：Flask-SQLAlchemy
 5. 快速的來點視覺介面：Flask-Admin
 6. 其他
+
+投票網址 -> https://forms.gle/nsQzYHJHHBtD415JA
